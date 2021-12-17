@@ -113,7 +113,7 @@ Una vez se hayan indicado las carácterísticas del partido que queremos pronost
 **El resultado es el pronóstico de que jugador ganará, el Player 1 o Player 2**
 
 
- ![ImagenResultado ](/img/ejecucion.JPG)
+ ![ImagenResultado ](/img/ejecucion.png)
 
 
 
