@@ -1,0 +1,21 @@
+@relation test_atp
+
+@attribute surface {Hard,Clay,Grass}
+@attribute winner {Player1, Player2}
+@attribute winner_hand {R,L,U}
+@attribute winner_age REAL
+@attribute loser_hand {R,L,U}
+@attribute loser_age REAL
+@attribute w_ace REAL
+@attribute w_SvGms REAL
+@attribute l_ace REAL
+@attribute l_SvGms REAL
+@attribute winner_rank REAL
+@attribute loser_rank REAL
+
+@data
+Grass,?,L,28,R,22.5,3,10,5,10,9,16
+%
+%
+%
+
