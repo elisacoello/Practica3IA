@@ -70,7 +70,7 @@
     
      - **Naive Bayes**
 
-        ![resultado Naive Bayes: ](/img/ResultadoNaiveBayes.jpg)
+         ![resultado Naive Bayes: ](/img/ResultadoNaiveBayes.jpg)
 
      - **Random Forest**
 
@@ -79,7 +79,7 @@
 
      - **ID3**
 
-      ![resultado ID3: ](/img/ResultadoID3.jpg)
+         ![resultado ID3: ](/img/ResultadoID3.jpg)
 
 - Como se ve en la evaluación realizada con la herramienta *Weka*, el mejor algoritmo para nuestro modelo de predicción de resultados de los partidos de la ATP es el **Random Forest**
 
@@ -94,7 +94,7 @@
 
 Esta aplicación evalua el archivo *test-data\test_atp.arff* en el que se deberán indicar las características relevantes del partido para nuestro modelo:
 
-![ImagenTest ](/img/test_atp.JPG)
+	![ImagenTest ](/img/test_atp.JPG)
 
 Y a través de la aplicación del modelo, la aplicación nos mostrará quien ganará, Player 1 o Player 2
 
@@ -102,6 +102,8 @@ Y a través de la aplicación del modelo, la aplicación nos mostrará quien gan
 
         Ejecutar el comando *make* en el directorio raíz del proyecto
         Se crea el archivo ejecutable.jar si ha funcionado correctamente
+
+	![ImagenCreacionEjecutable ](/img/make.JPG)
 
 
   - **Ejecución de la aplicación**
