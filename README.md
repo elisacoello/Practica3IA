@@ -94,7 +94,8 @@
 
 Esta aplicación evalua el archivo *test-data\test_atp.arff* en el que se deberán indicar las características relevantes del partido para nuestro modelo:
 
-	![Imagentestatp ](/img/test_atp.JPG)
+![Imagentestatp ](/img/test_atp.JPG)
+
 Y a través de la aplicación del modelo, la aplicación nos mostrará quien ganará, Player 1 o Player 2
 
   - **Para compilar la aplicación**
